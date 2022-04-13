@@ -1,1 +1,3 @@
 This is the Readme file for Demo 2
+demo2CV contains the python program that is run on the Pi
+the arduino file contains the sketch that was used to control the motors and wheels
